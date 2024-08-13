@@ -1,7 +1,3 @@
-Here's a detailed guide on installing Plex Media Server using Docker Compose on Ubuntu:
-
-### File: `plex/installation/docker.md`
-
 # Installing Plex Media Server with Docker Compose on Ubuntu
 
 ## Prerequisites
